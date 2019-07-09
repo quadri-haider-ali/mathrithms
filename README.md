@@ -14,4 +14,4 @@ After the required condition of all necessary analysis described above and testi
 </br>
 Note that in case you are contributing from some resource it is mendatory to add the source name in your file and later add the proper citation to refrences.md file in the repository
 </br>
-We are quite open for suggestions you can always mail us as <a href="mailto:mathrithms@gmail.com">mathrithms@gmail.com</a>
+We are quite open for suggestions you can always mail us as <a href="mailto:mathrithms@gmail.com">mathrithms@gmail.com</a> (organization email), <a href="mailto:jain.22@iitj.ac.in">Nivedit Jain (admin)</a>, <a href="mailto:sharma.30@iitj.ac.in"> Rajat Sharma(admin) </a>.
