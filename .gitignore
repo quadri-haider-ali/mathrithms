@@ -1,0 +1,4 @@
+# all compiled .exe 
+*.exe
+# all objects 
+*.obj
