@@ -1,4 +1,4 @@
-# Mathrithms C++ Library ![Status active](https://img.shields.io/badge/Status-active%20development-2eb3c1.svg)
+# Mathrithms C++ Library ![Status active](https://img.shields.io/badge/Status-active%20development-2eb3c1.svg) ![Love C++](https://img.shields.io/badge/Love-C%2B%2B-red.svg) ![Love Maths](https://img.shields.io/badge/Love-maths-yellowgreen.svg)
 # Overview
 This is a research project which aims to create a mathematical library for the C++ language, on the lines of NumPy and SciPy present in Python. The library shall contain all the different modules and tools required for different tasks present in the fields of applied mathematics, engineering and science in general, and shall be based on methods and algorithms which could gurantee the most efficient and smoothest execution.
 # Rules for Contribution
