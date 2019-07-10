@@ -16,3 +16,5 @@ After the required condition of all necessary analysis described above and testi
 Note that in case you are contributing from some resource it is mendatory to add the source name in your file and later add the proper citation to refrences.md file in the repository
 </br>
 We are quite open for suggestions you can always mail us as <a href="mailto:mathrithms@gmail.com">mathrithms@gmail.com</a> (organization email), <a href="mailto:jain.22@iitj.ac.in">Nivedit Jain </a> (admin), <a href="mailto:sharma.30@iitj.ac.in"> Rajat Sharma </a> (admin).
+</br>
+People presently working on it are [NiveditJain](https://github.com/NiveditJain), [Rajat Sharma](https://github.com/rajat-99) , [Manan Chajjer](https://github.com/mananchhajer) , [Divyanshu Mathpal](https://github.com/grtcoder) , [Garima Soni](https://github.com/Garima1089), [Sakshay Mahna](https://github.com/SakshayMahna) , [Nikita Agarwal](https://github.com/nk-ag) , [Sanjay Reddy](https://github.com/reddysanjay) (team size propably going to increase) and other supporting members for other kinds of support Samridhi Sharma and MAdhav Anand.
