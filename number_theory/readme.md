@@ -7,4 +7,3 @@ Some of the basic things we have decided to start with are
 * Various mod fuctions
 * HCF LCM
 * Returning a list of prime factors of a number
-* Various set operations
